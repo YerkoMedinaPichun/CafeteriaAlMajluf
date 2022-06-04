@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Importando Fuentes-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;700&display=swap" rel="stylesheet">
+
+    <!--Importando CSS-->
+    <link rel="stylesheet" href="/public/build/css/app.css">
+    <title>Cafetería Al-Majluf</title>
+
+    <!--Descripcion-->
+    <meta name="description" content="Cafetería virtual, venta de insumos de origen árabe">
+
+    <!--Url Real-->
+    <link rel="canonical" href="https://cafeteria-almajluf.netlify.app">
+
+    <!--Favicon-->
+    <link rel="icon" href="https://cafeteria-almajluf.netlify.app/public/build/img/favicon.png">
+    <link rel="apple-touch-icon" href="https://cafeteria-almajluf.netlify.app/public/build/img/favicon.png">
+    <meta name="theme-color" content="#FF6600">
+
+    <!--Redes Sociales-->
+    <meta property="og:title" content="Al-Majluf" />
+    <!-- <meta property="og:type" content="video.movie" /> -->
+    <meta property="og:url" content="https://cafeteria-almajluf.netlify.app" />
+    <meta property="og:image" content="https://cafeteria-almajluf.netlify.app/public/build/img/redSocial.jpg" />
+</head>
+
+<body>
+    <!--Boton Subir-->
+    <div class="contenedor__boton-subir">
+        <a href="#header">
+            <ion-icon class="icono" name="arrow-up-outline"></ion-icon>
+        </a>
+    </div>
+
+
+
+    <!--header-->
+    <header id="header" class="contenedor header">
+        <a href="index.html" class="contenedor-logo">
+            <h1 class="titulo-pagina">Al-Majluf</h1>
+            <div class="contenedor__imagen-logo">
+                <img src="/public/build/img/camello_blanco.png" alt="logo almajluf">
+                <!-- <img src="/public/build/img/blanco&negro_camello_sinfondo.png" alt=""> -->
+            </div>
+        </a>
+    </header>
+
+
+    <!--nav-->
+    <nav class="contenedor nav">
+        <div class="contenedor-icono">
+            <ion-icon class="icono" name="menu-outline"></ion-icon>
+        </div>
+        <ul class="ocultar menu">
+            <li class="contenedor-enlace"><a href="#conocenos" class="enlace">Conócenos</a></li>
+            <li class="contenedor-enlace"><a href="#productos" class="enlace">Productos</a></li>
+            <li class="contenedor-enlace"><a href="#despachos" class="enlace">Despachos</a></li>
+            <li class="contenedor-enlace"><a href="#contactanos" class="enlace">Contáctanos</a></li>
+        </ul>
+    </nav>
+
+
+    <!--hero-image-->
+    <div class="hero-image">
+        <h2 class="hero-image__texto">Café directo del medio oriente</h2>
+        <div class="contenedor-logo">
+            <div class="logo"></div>
+        </div>
+    </div>
+
+    <!--Sección de Conócenos-->
+    <div id="conocenos" class="contenedor">
+        <section class="section section__conocenos">
+            <div class="contenedor-icono contenedor-icono-section">
+                <ion-icon class="icono" name="happy-outline"></ion-icon>
+            </div>
+            <h3 class="subtitulo-pagina">Conócenos</h3>
+            <div class="informacion-section">
+                <p>AlMajluf es una cafetería virtual, dedicada a la venta de artículos e insumos de origen árabe.</p>
+                <p>AlMajluf tiene a la venta set de tazas, cafeteras, galletas, jugo, té y café de origen árabe.</p>
+            </div>
+        </section>
+    </div>
+
+
+    <!--main-->
+    <main id="productos" class="contenedor-productos main">
+
+        <!--Sección de Productos-->
+        <section class="section section__productos">
+            <div class="contenedor-icono contenedor-icono--taza">
+                <ion-icon class="icono" name="cafe-outline"></ion-icon>
+            </div>
+            <h3 class="subtitulo-pagina">Productos</h3>
+            <div class="informacion-section">
+                <p>AlMajluf tiene a la venta una gran variedad de tazas, cafeteras, galletas, café, té y jugos,
+                    directamente desde el medio oriente a Chile. </p>
+            </div>
+            <!--producto-->
+        </section>
+
+        <section class="productos">
+
+        </section>
+    </main>
+
+    <div id="despachos" class="contenedor">
+        <!--Sección de Despachos-->
+        <section class="section section__despachos">
+            <div class="contenedor-icono contenedor-icono-section">
+                <ion-icon class="icono" name="cube-outline"></ion-icon>
+            </div>
+            <h3 class="subtitulo-pagina">Despachos</h3>
+            <div class="informacion-section">
+                <p>Reparto a $3.500 en la región metropolitana.</p>
+                <p>También se hacen envíos a regiones (Consultar al perfil de instagram para saber el precio por el
+                    envío a regiones).</p>
+            </div>
+        </section>
+    </div>
+
+
+    <div id="contactanos" class="contenedor">
+        <!--Sección de contácto-->
+        <section class="section section__contactanos">
+            <div class="contenedor-icono contenedor-icono-section">
+                <ion-icon class="icono" name="mail-outline"></ion-icon>
+            </div>
+            <h3 class="subtitulo-pagina">Contáctanos</h3>
+            <form class="form informacion-section">
+                <div id="bloque-nombre" class="contenedor__bloque-info">
+                    <label class="label" for="nombre">Nombre:</label>
+                    <input class="input" id="nombre" name="nombre" type="text" placeholder="Tu nombre">
+                    <span class="indicador"></span>
+                </div>
+                <div id="bloque-apellido" class="contenedor__bloque-info">
+                    <label class="label" for="apellido">Apellido:</label>
+                    <input class="input" id="apellido" name="apellido" type="text" placeholder="Tu apellido">
+                    <span class="indicador"></span>
+                </div>
+                <div id="bloque-telefono" class="contenedor__bloque-info">
+                    <label class="label" for="telefono">Teléfono:</label>
+                    <input class="input" id="telefono" name="telefono" type="text" placeholder="Tu teléfono">
+                    <span class="indicador"></span>
+                </div>
+                <div id="bloque-mensaje" class="contenedor__bloque-info">
+                    <label class="label" for="mensaje">Mensaje:</label>
+                    <textarea class="input input--textarea" name="mensaje" id="mensaje"
+                        placeholder="Tu mensaje..."></textarea>
+                    <span class="indicador"></span>
+                </div>
+                <div class="contenedor__bloque-info contenedor__bloque-info--boton">
+                    <input id="enviarMensaje" class="boton" type="submit" value="Enviar Mensaje">
+                </div>
+            </form>
+
+        </section>
+    </div>
+
+
+    <!--footer-->
+    <div class="contenedor-footer">
+        <footer class="footer">
+            <div class="contenedor-rrss">
+                <div class="contenedor-icono">
+                    <a href="https://instagram.com/almajluf?igshid=YmMyMTA2M2Y=">
+                        <ion-icon class="icono" name="logo-instagram"></ion-icon>
+                    </a>
+                </div>
+                <div class="contenedor-icono">
+                    <a href="https://chat.whatsapp.com/F8379EN9f7uEwQWDfwvVjg">
+                        <ion-icon class="icono" name="logo-whatsapp"></ion-icon>
+                    </a>
+                </div>
+                <div class="contenedor-icono">
+                    <a href="https://www.youtube.com/channel/UCMx-ArMu5Pax5XsHW_ZwjTw">
+                        <ion-icon class="icono" name="logo-youtube"></ion-icon>
+                    </a>
+                </div>
+            </div>
+            <p class="copy">2022 &copy; Todos los derechos reservados.</p>
+        </footer>
+    </div>
+
+
+
+
+
+
+    <!--Importando script para iconos-->
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <!--Importando script para funciones-->
+    <script src="/public/build/js/script.js"></script>
+</body>
+
+</html>
