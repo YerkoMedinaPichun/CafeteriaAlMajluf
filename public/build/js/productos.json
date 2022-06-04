@@ -3,7 +3,7 @@
         {
             "id" : "0",
             "nombre" : "cafetera color negra",
-            "img" : "/public/build/img/productos_almajluf/cafetera_001.jpg",
+            "img" : "public/build/img/productos_almajluf/cafetera_001.jpg",
             "descripcion" : "cafetera con tapa, color negra con diseño de lineas doradas.",
             "size" : ["small","medium","big"],
             "precio" : [8000,10000,12000],
@@ -12,7 +12,7 @@
         {
             "id" : "1",
             "nombre" : "cafetera color azul",
-            "img" : "/public/build/img/productos_almajluf/cafetera_002.jpg",
+            "img" : "public/build/img/productos_almajluf/cafetera_002.jpg",
             "descripcion" : "cafetera con tapa, color azul con diseño de pavo real y flores.",
             "size" : ["small","medium","big"],
             "precio" : [8000,10000,12000],
@@ -21,7 +21,7 @@
         {
             "id" : "2",
             "nombre" : "cafetera color cobre",
-            "img" : "/public/build/img/productos_almajluf/cafetera_003.jpg",
+            "img" : "public/build/img/productos_almajluf/cafetera_003.jpg",
             "descripcion" : "cafetera lisa con tapa, de acero inoxidable color cobre.",
             "size" : ["small","medium","big"],
             "precio" : [7000,10000,12000],
@@ -30,7 +30,7 @@
         {
             "id" : "3",
             "nombre" : "cafetera color dorada",
-            "img" : "/public/build/img/productos_almajluf/cafetera_004.jpg",
+            "img" : "public/build/img/productos_almajluf/cafetera_004.jpg",
             "descripcion" : "cafetera lisa con tapa, de acero inoxidable color dorada.",
             "size" : ["small","medium","big"],
             "precio" : [7000,10000,12000],
@@ -39,7 +39,7 @@
         {
             "id" : "4",
             "nombre" : "cafetera color cobre",
-            "img" : "/public/build/img/productos_almajluf/cafetera_005-1.jpg",
+            "img" : "public/build/img/productos_almajluf/cafetera_005-1.jpg",
             "descripcion" : "cafetera con tapa, de acero inoxidable color cobre, mango de madera y letras árabe.",
             "size" : ["small","medium","big"],
             "precio" : [7000,9000,11000],
@@ -48,7 +48,7 @@
         {
             "id" : "5",
             "nombre" : "cafetera color cobre",
-            "img" : "/public/build/img/productos_almajluf/cafetera_006.jpg",
+            "img" : "public/build/img/productos_almajluf/cafetera_006.jpg",
             "descripcion" : "cafetera sin tapa, de acero inoxidable color cobre y relieves de puntos.",
             "size" : ["small"],
             "precio" : [7000],
@@ -60,7 +60,7 @@
         {
             "id" : "6",
             "nombre" : "café árabe",
-            "img" : "/public/build/img/productos_almajluf/cafe_001.jpg",
+            "img" : "public/build/img/productos_almajluf/cafe_001.jpg",
             "descripcion" : "café árabe en sus 3 versiones, sin cardamomo, medio cardamomo y extra cardamomo (200g todos los envases).",
             "version" : ["sin cardamomo","medio cardamomo","extra cardamomo"],
             "precio" : [5000,6000,7000]
@@ -70,7 +70,7 @@
         {
             "id" : "7",
             "nombre" : "contenedor de café",
-            "img" : "/public/build/img/productos_almajluf/contenedor_001.jpg",
+            "img" : "public/build/img/productos_almajluf/contenedor_001.jpg",
             "descripcion" : "contenedor de capacidad 400g color café, de vidrio y con tapa plástica.",
             "precio" : 4000
         }
@@ -79,35 +79,35 @@
         {
             "id" : "8",
             "nombre" : "copas de cristal",
-            "img" : "/public/build/img/productos_almajluf/copas_001.jpg",
+            "img" : "public/build/img/productos_almajluf/copas_001.jpg",
             "descripcion" : "set de 6 copas de cristal.",
             "precio" : 7000
         },
         {
             "id" : "9",
             "nombre" : "copas de cristal",
-            "img" : "/public/build/img/productos_almajluf/copas_002.jpg",
+            "img" : "public/build/img/productos_almajluf/copas_002.jpg",
             "descripcion" : "set de 6 copas de cristal.",
             "precio" : 7000
         },
         {
             "id" : "10",
             "nombre" : "copas de cristal",
-            "img" : "/public/build/img/productos_almajluf/copas_003.jpg",
+            "img" : "public/build/img/productos_almajluf/copas_003.jpg",
             "descripcion" : "set de 6 copas de cristal.",
             "precio" : 7000
         },
         {
             "id" : "11",
             "nombre" : "copas de cristal",
-            "img" : "/public/build/img/productos_almajluf/copas_005.jpg",
+            "img" : "public/build/img/productos_almajluf/copas_005.jpg",
             "descripcion" : "set de 6 copas de cristal.",
             "precio" : 7000
         },
         {
             "id" : "12",
             "nombre" : "copas de cristal",
-            "img" : "/public/build/img/productos_almajluf/copas_006.jpg",
+            "img" : "public/build/img/productos_almajluf/copas_006.jpg",
             "descripcion" : "set de 6 copas de cristal.",
             "precio" : 7000
         }
@@ -116,14 +116,14 @@
         {
             "id" : "13",
             "nombre" : "Maamouls",
-            "img" : "/public/build/img/productos_almajluf/galletas_001.jpg",
+            "img" : "public/build/img/productos_almajluf/galletas_001.jpg",
             "descripcion" : "Maamouls en bocaditos, 56 bocados tipo galleta, masa rellena de pasta de dátiles y pistacho.",
             "precio" : 15000
         },
         {
             "id" : "14",
             "nombre" : "Maamouls",
-            "img" : "/public/build/img/productos_almajluf/galletas_002.jpg",
+            "img" : "public/build/img/productos_almajluf/galletas_002.jpg",
             "descripcion" : "Maamouls en bocaditos, 24 bocados tipo galleta, masa rellena de pasta de dátiles.",
             "precio" : 8000
         }
@@ -132,14 +132,14 @@
         {
             "id" : "15",
             "nombre" : "Jugo de dátiles y berries",
-            "img" : "/public/build/img/productos_almajluf/jugo_001.jpg",
+            "img" : "public/build/img/productos_almajluf/jugo_001.jpg",
             "descripcion" : "Jugo de dátiles y berries para disolver (1 unidad).",
             "precio" : 1000
         },
         {
             "id" : "16",
             "nombre" : "Jugo de dátiles y berries",
-            "img" : "/public/build/img/productos_almajluf/jugo_001.jpg",
+            "img" : "public/build/img/productos_almajluf/jugo_001.jpg",
             "descripcion" : "Jugo de dátiles y berries para disolver (12 unidades).",
             "precio" : 10000
         }
@@ -148,140 +148,140 @@
         {
             "id" : "17",
             "nombre" : "Tazas",
-            "img" : "/public/build/img/productos_almajluf/taza_001.jpg",
+            "img" : "public/build/img/productos_almajluf/taza_001.jpg",
             "descripcion" : "set de 6 tazas color blanco con diseños.",
             "precio" : 7000
         },
         {
             "id" : "18",
             "nombre" : "Tazas",
-            "img" : "/public/build/img/productos_almajluf/taza_002.jpg",
+            "img" : "public/build/img/productos_almajluf/taza_002.jpg",
             "descripcion" : "set de 6 tazas color blanco con negro.",
             "precio" : 7000
         },
         {
             "id" : "19",
             "nombre" : "Tazas",
-            "img" : "/public/build/img/productos_almajluf/taza_003.jpg",
+            "img" : "public/build/img/productos_almajluf/taza_003.jpg",
             "descripcion" : "set de 6 tazas color blanco con plumas azules.",
             "precio" : 7000
         },
         {
             "id" : "20",
             "nombre" : "Tazas",
-            "img" : "/public/build/img/productos_almajluf/taza_004.jpg",
+            "img" : "public/build/img/productos_almajluf/taza_004.jpg",
             "descripcion" : "set de 6 tazas color blanco con rosado.",
             "precio" : 7000
         },
         {
             "id" : "21",
             "nombre" : "Tazas",
-            "img" : "/public/build/img/productos_almajluf/taza_005-1.jpg",
+            "img" : "public/build/img/productos_almajluf/taza_005-1.jpg",
             "descripcion" : "set de 6 tazas color blanco con diseños de rombos.",
             "precio" : 7000
         },
         {
             "id" : "22",
             "nombre" : "Tazas",
-            "img" : "/public/build/img/productos_almajluf/taza_006.jpg",
+            "img" : "public/build/img/productos_almajluf/taza_006.jpg",
             "descripcion" : "set de 6 tazas color blanco con corazones.",
             "precio" : 7000
         },
         {
             "id" : "23",
             "nombre" : "Tazas",
-            "img" : "/public/build/img/productos_almajluf/taza_007.jpg",
+            "img" : "public/build/img/productos_almajluf/taza_007.jpg",
             "descripcion" : "set de 6 tazas color blanco con cuadros de colores.",
             "precio" : 7000
         },
         {
             "id" : "24",
             "nombre" : "Tazas",
-            "img" : "/public/build/img/productos_almajluf/taza_008.jpg",
+            "img" : "public/build/img/productos_almajluf/taza_008.jpg",
             "descripcion" : "set de 6 tazas color blanco con circulos de colores.",
             "precio" : 7000
         },
         {
             "id" : "25",
             "nombre" : "Tazas con mango",
-            "img" : "/public/build/img/productos_almajluf/taza_009.jpg",
+            "img" : "public/build/img/productos_almajluf/taza_009.jpg",
             "descripcion" : "set de 6 tazas con plato, color blanco con flor gris.",
             "precio" : 7000
         },
         {
             "id" : "26",
             "nombre" : "Tazas con mango",
-            "img" : "/public/build/img/productos_almajluf/taza_010.jpg",
+            "img" : "public/build/img/productos_almajluf/taza_010.jpg",
             "descripcion" : "set de 6 tazas con plato, color blanco con diseños color rojo y negro.",
             "precio" : 7000
         },
         {
             "id" : "27",
             "nombre" : "Tazas con mango",
-            "img" : "/public/build/img/productos_almajluf/taza_011.jpg",
+            "img" : "public/build/img/productos_almajluf/taza_011.jpg",
             "descripcion" : "set de 6 tazas con plato, color blanco con diseños color rojo y negro.",
             "precio" : 7000
         },
         {
             "id" : "28",
             "nombre" : "Tazas con mango",
-            "img" : "/public/build/img/productos_almajluf/taza_012.jpg",
+            "img" : "public/build/img/productos_almajluf/taza_012.jpg",
             "descripcion" : "set de 6 tazas con plato, color blanco con diseños dorados y rosados.",
             "precio" : 7000
         },
         {
             "id" : "29",
             "nombre" : "Tazas con mango",
-            "img" : "/public/build/img/productos_almajluf/taza_013.jpg",
+            "img" : "public/build/img/productos_almajluf/taza_013.jpg",
             "descripcion" : "set de 6 tazas con plato, color blanco con diseños color rojo y negro.",
             "precio" : 7000
         },
         {
             "id" : "30",
             "nombre" : "Tazas con mango",
-            "img" : "/public/build/img/productos_almajluf/taza_014.jpg",
+            "img" : "public/build/img/productos_almajluf/taza_014.jpg",
             "descripcion" : "set de 6 tazas con plato, color blanco con relieves de rombos.",
             "precio" : 7000
         },
         {
             "id" : "31",
             "nombre" : "Tazas con mango",
-            "img" : "/public/build/img/productos_almajluf/taza_015.jpg",
+            "img" : "public/build/img/productos_almajluf/taza_015.jpg",
             "descripcion" : "set de 6 tazas, color blanco con diseños dorados.",
             "precio" : 7000
         },
         {
             "id" : "32",
             "nombre" : "Tazas con mango",
-            "img" : "/public/build/img/productos_almajluf/taza_016.jpg",
+            "img" : "public/build/img/productos_almajluf/taza_016.jpg",
             "descripcion" : "set de 6 tazas con plato, color blanco con de flor gris y bordes dorados.",
             "precio" : 7000
         },
         {
             "id" : "33",
             "nombre" : "Tazas con mango",
-            "img" : "/public/build/img/productos_almajluf/taza_017.jpg",
+            "img" : "public/build/img/productos_almajluf/taza_017.jpg",
             "descripcion" : "set de 6 tazas con plato, color blanco con diseños color rojo y negro.",
             "precio" : 7000
         },
         {
             "id" : "34",
             "nombre" : "Tazas con mango",
-            "img" : "/public/build/img/productos_almajluf/taza_018.jpg",
+            "img" : "public/build/img/productos_almajluf/taza_018.jpg",
             "descripcion" : "set de 6 tazas con plato, color blanco con diseñode flor negra con dorado.",
             "precio" : 7000
         },
         {
             "id" : "35",
             "nombre" : "Tazas con mango",
-            "img" : "/public/build/img/productos_almajluf/taza_019.jpg",
+            "img" : "public/build/img/productos_almajluf/taza_019.jpg",
             "descripcion" : "set de 6 tazas con plato, color blanco con diseños negro con dorado.",
             "precio" : 7000
         },
         {
             "id" : "36",
             "nombre" : "Tazas con mango",
-            "img" : "/public/build/img/productos_almajluf/taza_020.jpg",
+            "img" : "public/build/img/productos_almajluf/taza_020.jpg",
             "descripcion" : "set de 6 tazas con plato, color blanco con diseños dorados y rosados.",
             "precio" : 7000
         }
@@ -290,70 +290,70 @@
         {
             "id" : "37",
             "nombre" : "Té Hibisco",
-            "img" : "/public/build/img/productos_almajluf/te_001.jpg",
+            "img" : "public/build/img/productos_almajluf/te_001.jpg",
             "descripcion" : "Té de hibisco (20 unidades).",
             "precio" : 3500
         },
         {
             "id" : "38",
             "nombre" : "Té verde con manzana roja y verde",
-            "img" : "/public/build/img/productos_almajluf/te_001.jpg",
+            "img" : "public/build/img/productos_almajluf/te_001.jpg",
             "descripcion" : "Té verde con manzana roja y verde (20 unidades).",
             "precio" : 3500
         },
         {
             "id" : "39",
             "nombre" : "Té verde con jengibre y canela",
-            "img" : "/public/build/img/productos_almajluf/te_001.jpg",
+            "img" : "public/build/img/productos_almajluf/te_001.jpg",
             "descripcion" : "Té verde con jengibre y canela (20 unidades).",
             "precio" : 3500
         },
         {
             "id" : "40",
             "nombre" : "Té de Hibisco con rosas",
-            "img" : "/public/build/img/productos_almajluf/te_002.jpg",
+            "img" : "public/build/img/productos_almajluf/te_002.jpg",
             "descripcion" : "Té de hibisco con rosas (20 unidades).",
             "precio" : 3500
         },
         {
             "id" : "41",
             "nombre" : "Té de limonada con cardamomo",
-            "img" : "/public/build/img/productos_almajluf/te_002.jpg",
+            "img" : "public/build/img/productos_almajluf/te_002.jpg",
             "descripcion" : "Té de limonada con cadamomo (20 unidades).",
             "precio" : 3500
         },
         {
             "id" : "42",
             "nombre" : "Té negro con durazno",
-            "img" : "/public/build/img/productos_almajluf/te_002.jpg",
+            "img" : "public/build/img/productos_almajluf/te_002.jpg",
             "descripcion" : "Té verde con jengibre y canela (20 unidades).",
             "precio" : 3500
         },
         {
             "id" : "43",
             "nombre" : "Té verde con cardamomo",
-            "img" : "/public/build/img/productos_almajluf/te_003.jpg",
+            "img" : "public/build/img/productos_almajluf/te_003.jpg",
             "descripcion" : "Té verde con cardamomo (20 unidades).",
             "precio" : 3500
         },
         {
             "id" : "44",
             "nombre" : "Té zhourat shamia y limón",
-            "img" : "/public/build/img/productos_almajluf/te_003.jpg",
+            "img" : "public/build/img/productos_almajluf/te_003.jpg",
             "descripcion" : "Té zhourat shamia y limón (20 unidades).",
             "precio" : 3500
         },
         {
             "id" : "45",
             "nombre" : "Té verde con ginseng y miel",
-            "img" : "/public/build/img/productos_almajluf/te_003.jpg",
+            "img" : "public/build/img/productos_almajluf/te_003.jpg",
             "descripcion" : "Té verde con ginseng y miel (20 unidades).",
             "precio" : 3500
         },
         {
             "id" : "46",
             "nombre" : "Té de granada y frutos rojos",
-            "img" : "/public/build/img/productos_almajluf/te_004.jpg",
+            "img" : "public/build/img/productos_almajluf/te_004.jpg",
             "descripcion" : "Té de granada con frutos rojos (20 unidades).",
             "precio" : 3500
         }
