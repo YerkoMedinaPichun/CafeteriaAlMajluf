@@ -43,7 +43,8 @@ function menuFixed(){
 //Creando funcion asincrona para mostrar los productos de un json
 async function mostrarProductos(){
     try{
-        const url = 'http://127.0.0.1:5500/public/build/js/productos.json';
+        //const url = 'http://127.0.0.1:5500/public/build/js/productos.json';
+        const url = 'https://yerkomedinapichun.github.io/CafeteriaAlMajluf/public/build/js/productos.json';
         //const url = 'https://cafeteria-almajluf.netlify.app/public/build/js/productos.json';
         const resultado = await fetch(url);        
         const db = await resultado.json();
